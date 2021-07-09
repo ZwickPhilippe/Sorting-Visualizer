@@ -1,4 +1,4 @@
-# Sorting-Visualizer
+# Sorting-Visualizer created with React JS
 Bubble-/Insertion-/Selectionsort visualizer
 
 1. Type in size of array that should be sorted
