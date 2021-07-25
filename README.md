@@ -1,10 +1,11 @@
 # Sorting-Visualizer created with React JS
 Bubble-/Insertion-/Selectionsort visualizer
 
-##Start project
+## Start project
+
 `npm install` in console and `npm start` to run the project on http://localhost:3000/
 
-##Usage
+## Usage
 
 1. Type in size of array that should be sorted
 2. Enter tickSpeed (only relevant for visualization)
